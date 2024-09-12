@@ -8,8 +8,8 @@ un par de practicas de reporte de JavaScript puro, con el objetivo de confirmar 
 ## Historial de practicas
 |No.|Descripción| Estatus|
 |--|--|--|
-|1. | Metodologia de Evaluacion| Finalizada|
-|2. | Inicializacion del Proyecto|Activo|
+|1. | Metodologia de Evaluacion| Finalizada 😒|
+|2. | Inicializacion del Proyecto|Activo 😁(●'◡'●)|
 ***
 ### Autor
 Creado por : **Marcos Jesús Rios Duran** /[@Marcos-Jesús-Ríos-Durán](https://github.com/Marcos-Jesus-Rios-Duran)
