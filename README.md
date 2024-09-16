@@ -6,10 +6,17 @@ Previo a Iniciar el Desarrollo de Softaware para web usando el freamework de Nod
 un par de practicas de reporte de JavaScript puro, con el objetivo de confirmar los conocimientos basicos de logica de programación.
 ***
 ## Historial de practicas
+<<<<<<< HEAD
 |No.|Descripción|Potenciador| Estatus|
 |--|--|--|--|
 |1. | Metodologia de Evaluacion| |Finalizada 😒|
 |2. | Inicializacion del Proyecto||Activo 😁(●'◡'●)|
+=======
+|No.|Descripción| Estatus|
+|--|--|--|
+|1. | Metodologia de Evaluacion| Finalizada 😒|
+|2. | Inicializacion del Proyecto|Activo 😁(●'◡'●)|
+>>>>>>> parent of ad19120 (Practica03)
 ***
 ### Autor
 Creado por : **Marcos Jesús Rios Duran** /[@Marcos-Jesús-Ríos-Durán](https://github.com/Marcos-Jesus-Rios-Duran)
